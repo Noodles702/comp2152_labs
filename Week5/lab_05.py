@@ -1,4 +1,4 @@
-# Import the random library to use for the dice later
+# Import the random library to use for the dice later 
 import random
 
 # Put all the functions into another file and import them
